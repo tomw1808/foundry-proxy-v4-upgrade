@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.13;
 
+/// @custom:oz-upgrades-from src/Counter.sol:Counter
 contract Counter {
     uint256 public number;
 
